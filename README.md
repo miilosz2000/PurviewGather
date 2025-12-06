@@ -1,4 +1,4 @@
-# GetPurviewConfig
+# PurviewGather
 
 **GitHub:** `miilosz2000`
 
@@ -10,4 +10,5 @@
 - You must have a corporate Microsoft tenant, not a personal. If you have a personal, sync it to the organisational one.
 - Powershell should be latest version, install ExchangeOnlineManagement with administrator. Ensure it is saved to the default location (Program File/WindowsPowerShell/Modules). If the location isn't where the package installed, copy it into this location.
 - Purview tenant is created and functional. Compliance Administrator is the recommended role to complete the Gather and Sync (TODO).
+
 
